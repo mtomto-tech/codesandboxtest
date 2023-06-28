@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["val1","console","log"],"mappings":";AAAA,IAAIA,EAAO,QACXC,QAAQC,IAAIF","file":"src.0a08e30f.js","sourceRoot":"..","sourcesContent":["var val1 = \"var変数\";\nconsole.log(val1);\n"]}
