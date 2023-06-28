@@ -1,6 +1,6 @@
 import "./styles.css";
 
-console.log("あああ")
+console.log("あああ");
 
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
@@ -9,5 +9,6 @@ document.getElementById("app").innerHTML = `
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
   <p>テストです</p>
+  <p>修正しました</p>
   </div>
 `;
